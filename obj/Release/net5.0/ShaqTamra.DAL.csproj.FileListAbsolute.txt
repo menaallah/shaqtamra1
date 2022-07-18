@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ShaqTamra\bin\Release\net5.0\ShaqTamra.DAL.deps.json
+C:\Users\DELL\source\repos\ShaqTamra\bin\Release\net5.0\ShaqTamra.DAL.runtimeconfig.json
+C:\Users\DELL\source\repos\ShaqTamra\bin\Release\net5.0\ShaqTamra.DAL.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ShaqTamra\bin\Release\net5.0\ShaqTamra.DAL.dll
+C:\Users\DELL\source\repos\ShaqTamra\bin\Release\net5.0\ref\ShaqTamra.DAL.dll
+C:\Users\DELL\source\repos\ShaqTamra\bin\Release\net5.0\ShaqTamra.DAL.pdb
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.dll
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ref\ShaqTamra.DAL.dll
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.pdb
+C:\Users\DELL\source\repos\ShaqTamra\obj\Release\net5.0\ShaqTamra.DAL.genruntimeconfig.cache
